@@ -1,0 +1,65 @@
+body, html {
+  height: 100%;
+}
+
+.text_jepang{
+    -webkit-writing-mode: vertical-rl;
+    -moz-writing-mode: vertical-rl;
+    -ms-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+}
+
+
+.rounded-0 {
+    color: white;
+}
+.bg_header {
+  /* The image used */
+  background-image: url("img/bg_header.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about{
+	background:url(img/bg_03.svg) no-repeat 0px 0px;
+  	/* Full height */
+  	height: 100%;
+
+  	/* Center and scale the image nicely */
+  	background-position: right;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-size: 650px;
+  	
+}
+
+.text6{
+	text-align:right;
+	font-size: 200%;
+	margin-right:20%;
+}
+.content{
+	background:url(img/bg_orange.png) no-repeat 0px 0px;
+  	/* Full height */
+  	height: 100%;
+
+  	/* Center and scale the image nicely */
+  	background-position: right;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+.company{
+	background:url(img/bg_05.svg) no-repeat 0px 0px;
+  	/* Full height */
+  	height: 100%;
+
+  	/* Center and scale the image nicely */
+  	background-position: right;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
